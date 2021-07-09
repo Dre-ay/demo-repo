@@ -1,6 +1,6 @@
 # Demo
 
-Some description
+Some description!
 
 
 Demo for GitHub Intro video.
